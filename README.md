@@ -1,4 +1,4 @@
-# Trondheim CoDe Academy 2019
+# OsloMet CoDe Academy 2022
 
 Agenda and materials for the 2019 versions of CoDe Academy
 
@@ -17,11 +17,11 @@ Git: [git-scm.com](https://git-scm.com/)
 ## Day 1
 ### Agenda
 * Welcome
-* Introduction to Continuous Delivery [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRQRsg9TsPIJvvsT4_lPWL_Dy12OcZSL7P1PH6IkgWwRgrWCCkRxjFBVtzE0cz4qx0jgA5p0d2iELN7/pub?start=false&loop=false&delayms=3000)
-* Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/)
+* Introduction to Continuous Delivery [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRQRsg9TsPIJvvsT4_lPWL_Dy12OcZSL7P1PH6IkgWwRgrWCCkRxjFBVtzE0cz4qx0jgA5p0d2iELN7/pub?start=false&loop=false&delayms=3000) (Hamzah)
+* Lego game [Slides](http://code.praqma.com/reveals/code-academy/lego-scrum/#/) (Alex + Hans)
 * Lunch
-* Lego game
-* Git Basics [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR4S2EGAxtOB8LQCJ1ivCupcJPD5_K02cYFzb5AwOMKnzLSBOMWyrID0-XDEWKfoSKaEQMPYOWCBNQM/pub?start=false&loop=false&delayms=3000) |[Slides2](https://docs.google.com/presentation/d/e/2PACX-1vQpT2k4Jmmc6QXJEhHnUfJsoeBlFsdybf3JtDH-kh1QnHxKdrDZYo938raim1D2usjsxMd3mT-_H2dg/pub?start=false&loop=false&delayms=3000)| [exercises](https://github.com/praqma-training/git-katas)
+* Lego game (Alex + Hans)
+* Git Basics [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR4S2EGAxtOB8LQCJ1ivCupcJPD5_K02cYFzb5AwOMKnzLSBOMWyrID0-XDEWKfoSKaEQMPYOWCBNQM/pub?start=false&loop=false&delayms=3000) |[Slides2](https://docs.google.com/presentation/d/e/2PACX-1vQpT2k4Jmmc6QXJEhHnUfJsoeBlFsdybf3JtDH-kh1QnHxKdrDZYo938raim1D2usjsxMd3mT-_H2dg/pub?start=false&loop=false&delayms=3000)| [exercises](https://github.com/praqma-training/git-katas) (Hans + Ali + Alex)
 * Xtra: Problem solving
 
 
@@ -30,9 +30,9 @@ Git: [git-scm.com](https://git-scm.com/)
 ### Agenda
 * Recap
 * Testing
-* Git 2
-* Lunch
-* Docker [Slides](https://docs.google.com/presentation/d/16L0o2AxeWzqiy1NjIVydX-oT48gMZFCVQLkDPqE8KuY/present) | [Exercises](https://github.com/praqma-training/docker-katas)
+* Git 2 (Hans + Ali + Alex)
+* * Lunch
+* Docker [Slides](https://docs.google.com/presentation/d/16L0o2AxeWzqiy1NjIVydX-oT48gMZFCVQLkDPqE8KuY/present) | [Exercises](https://github.com/praqma-training/docker-katas) (Hamzah + Gheet)
 
 
 ## Day 3
@@ -40,9 +40,9 @@ Git: [git-scm.com](https://git-scm.com/)
 ### Agenda
 
 * Recap
-* Docker 2
+* Docker 2 (Hamzah + Gheet + Neethu)
 * Lunch
-* Jenkins
+* CI (Gheet + Hamzah + Arinze)
 
 ## Day 4
 ### Agenda
